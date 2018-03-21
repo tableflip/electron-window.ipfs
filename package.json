@@ -1,0 +1,27 @@
+{
+  "name": "electron-window.ipfs",
+  "version": "0.0.0",
+  "description": "Test repo to see if we can add `window.ipfs` to a web page bundled in electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Alan Shaw",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.8.2"
+  },
+  "dependencies": {
+    "ipfs-api": "^18.2.0",
+    "ipfs-postmsg-proxy": "^2.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/electron-window.ipfs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/electron-window.ipfs/issues"
+  },
+  "homepage": "https://github.com/tableflip/electron-window.ipfs#readme"
+}
